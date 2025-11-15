@@ -1,0 +1,19 @@
+Archivos de compilación de CMake
+
+/build/
+
+Archivos compilados (ejecutables y objetos)
+
+*.exe
+*.o
+*.out
+solucionador
+
+Archivos del sistema operativo
+
+.DS_Store
+Thumbs.db
+
+Archivos del editor
+
+.vscode/

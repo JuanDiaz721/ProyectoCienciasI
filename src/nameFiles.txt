@@ -1,0 +1,23 @@
+main.cpp: Punto de entrada principal.
+
+utils.hpp: Declaraciones de utilidades (consola, pausas, etc.).
+
+utils.cpp: Implementaciones de esas utilidades.
+
+estructuras.hpp: Las plantillas para Pila y Cola. (No necesita .cpp por ser plantillas).
+
+laberinto.hpp: Declaración de la clase Laberinto y struct Pos.
+
+laberinto.cpp: Implementación de la clase Laberinto (lógica de carga, vecinos, etc.).
+
+busquedas.hpp: Declaraciones de los algoritmos (DFS, BFS) y struct ResultadoBusqueda.
+
+busquedas.cpp: Implementación de la lógica de DFS y BFS.
+
+render.hpp: Declaraciones de las funciones de dibujo (dibujarLaberinto, etc.).
+
+render.cpp: Implementación de las funciones de dibujo (el código con los colores ANSI).
+
+ui.hpp: Declaración de la clase UI (la que maneja el menú).
+
+ui.cpp: Implementación de la clase UI (el bucle while(true), cin, etc.).
