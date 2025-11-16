@@ -1,4 +1,4 @@
-BFS SOLUCIONADOR DE LABERINTOS CON DFS Y BFS
+SOLUCIONADOR DE LABERINTOS CON DFS Y BFS
 
 Este es un proyecto de C++ que implementa un solucionador de laberintos visual e interactivo. La aplicación se ejecuta en la terminal (TUI - Text-based User Interface) y utiliza códigos de color ANSI para animar y comparar los algoritmos de Búsqueda en Profundidad (DFS) y Búsqueda en Amplitud (BFS).
 El objetivo principal es demostrar visualmente las diferencias fundamentales entre estas dos estrategias de recorrido de grafos: DFS encuentra un camino rápidamente (pero a menudo no el óptimo), mientras que BFS garantiza encontrar el camino más corto.
@@ -66,4 +66,5 @@ Una vez que el programa solucionador esté en ejecución:
     S para un (1) único punto de inicio.
     E para un (1) único punto de fin.
     Presiona ENTER para avanzar por las diferentes etapas: Animación DFS, Resultado DFS, Animación BFS, Resultado BFS y Comparación final.
+
 
